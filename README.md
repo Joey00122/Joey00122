@@ -1,7 +1,9 @@
-## Hi there 👋
-
 # About me
-  I'm a freshman in UTRGV. Currently, I'm working on setting my career by persuing a computer science degree. 
+### I'm a freshman in UTRGV. Currently, I'm working on setting my career by persuing a computer science degree. 
+
+# Contact Info
+### Email: TBD
+### LINKEDIN: https://www.linkedin.com/in/joe-carrion/
 <!--
 **Joey00122/Joey00122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
