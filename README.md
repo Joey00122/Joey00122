@@ -4,6 +4,9 @@
 # Contact Info
 ### Email: TBD
 ### LINKEDIN: https://www.linkedin.com/in/joe-carrion/
+
+# Programming Languages
+### Some programming languages I'm interested in is python and java. I know some basic levels of c++, but I'm still at a beginner level when it deals with programming overall.
 <!--
 **Joey00122/Joey00122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
